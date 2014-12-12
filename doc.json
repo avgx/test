@@ -1,0 +1,13 @@
+{
+  "help":"AxxonNext iOS documentation",
+  "versions": {
+    "2.6.1": {
+      "ru": "https://doc.axxonsoft.com/confluence/download/attachments/87621896/UserGuide-iOSru.pdf?version=2&api=v2",
+      "en": "https://doc.axxonsoft.com/confluence/download/attachments/87621896/UserGuide-iOSen.pdf?version=2&api=v2"
+    },
+    "3.0.0": {
+      "ru": "https://doc.axxonsoft.com/confluence/download/attachments/87621896/UserGuide-iOSru.pdf?version=4&api=v2",
+      "en": "https://doc.axxonsoft.com/confluence/download/attachments/87621896/UserGuide-iOSen.pdf?version=3&api=v2"
+    }
+  }
+}
